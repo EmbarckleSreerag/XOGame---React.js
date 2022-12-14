@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:lightblue;
+    align-items: center;
+}
+
+.table td{
+    height: 90px;
+    width: 90px;
+    border: 1px solid black;
+}
+
+.tableStyle{
+    text-align: center;
+    font-size: 50px;
+    border: 0px;
+    background-color: brown;
+   
+    text-decoration-line:solid ;
+
+}
+
+.resultBox{
+    border: 1 solid black;
+    color: blue;
+}
+
+.alert{
+
+    justify-items: center;
+    padding: 50px;
+    background-color: rgba(19, 19, 152, 0.471);
+    height: 100px;
+    margin-bottom:200px;
+    text-align: center;
+    border-radius: 20px;
+    
+   
+}
